@@ -7,7 +7,7 @@ Java Basic for beginner sinhala
  පහළ Link click කර මෙම Code free download කරගන්න.
 
 🎁  https://bit.ly/3oZkT0p
-📝 https://github.com/dotLK/Java-Basic-for-beginner
+📝 https://github.com/dotLK/Java-simple-Basic-calculator-for-beginners
 
 Java සිංහලෙන් ඉගන ගනිමු – Sinhala Java Tutorials. Java tutorial for beginners Sinhala. පරිගණක මෘදුකාංග නිර්මාණය කීරීම සදහා වර්තමානයේ බහුලව භාවිතා කරන පරිගණක භාෂාවක් ලෙස Java හැදින්විය හැක. මෙම  video පාඩම් මගින් අපි ඔබට නොමිලේම  Java හදුන්වා දෙනවා. Coding ඉගෙන ගන්න දැන්ම Subscribe කරන්න.
 
